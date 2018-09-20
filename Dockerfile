@@ -2,9 +2,9 @@
 FROM httpd:latest
 
 # Copiamos la página Web
-COPY ./public-html/ /usr/local/apach2/htdocs/
+COPY ./public-html/ /usr/local/apache2/htdocs/
 
 # Se indica el puerto que usará el contenedor
 EXPOSE 8080
 
-# 
+#
