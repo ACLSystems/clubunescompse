@@ -1,2 +1,2 @@
 # clubunescompse
-Página "Bajo construcción" para CLUB UNESCO COMPSE
+Página "Bajo construcción"
